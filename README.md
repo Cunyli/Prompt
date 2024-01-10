@@ -1,10 +1,4 @@
-#Prompt #LLM #AI
 
-这一部分的话还是看Jupyter的文件会比较好,[Jupyter文件](file:////Users/lilijie/Documents/学习资料/GitHub/Chartgpt_Prompt/l2-guidelines.ipynb)
-
-> 你自己的API keys（没钱了已经用不了了）：
-> promptStudying: 
-> *****手动打码
 ## Sort
 
 ![image.png](https://raw.githubusercontent.com/Cunyli/dataAnalysis/master/202310301953977.png)
