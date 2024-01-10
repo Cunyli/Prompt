@@ -4,7 +4,7 @@
 
 > 你自己的API keys（没钱了已经用不了了）：
 > promptStudying: 
-> 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
+> *****手动打码
 ## Sort
 
 ![image.png](https://raw.githubusercontent.com/Cunyli/dataAnalysis/master/202310301953977.png)
